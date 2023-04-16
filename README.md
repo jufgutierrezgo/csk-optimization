@@ -1,2 +1,6 @@
-# TRI-CHROMATIC CSK OPTIMIZATION
-In this repository is presented an optimization process of the tri-chromatic Color Shift Keying modulation for indoor applications, considering a mobile receiver.
+# T-CSK OPTIMIZATION
+In this repository is presented an optimization process of the Color Shift Keying based on three colors for indoor applications, considering a mobile receiver.
+
+## Description
+Color Shift Keying CSK is a modulation scheme for Visible Light Comunication. This modulation is a type of Wavelength Division Multiplexing WDM technique which uses multiple wavelengths and a color space to define a constellation of symbols. CSK modulation suffers of interchannel interference  due to the wide spectral responses of the LED and the photodetectors, and the spectral reflectance of the walls. The interchannel interference determines the minimum distance between the received symbols, and consequently the Symbol Error Rate SER of the transmission. To improve the SER of a CSK system, the constellation design is modified to maximize the minimum distance between the received symbols. However, CSK-based VLC system for indoor application also must fulfill illumination requierments such as a minimum illuminance level and a color temperature on the illuminated area. In indoor environments, the interchannel interference and the illumination parameters depends of the receiver position, so in this repository is addressed an optimization of the CSK.
+
