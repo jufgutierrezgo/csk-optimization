@@ -17,3 +17,13 @@ The objective and constrain functions are formulated in terms of constellation s
 ### Analytical validation
 
 Using the VLC-RM Python package, the solution of the constellation is validated.
+
+## Repo Files
+
+    .
+    ├── ...
+    ├── source                                # Directory with source files
+    │   ├── characterization.ipynb            # Notebook for the analytical characterization of an indoor envirornmet
+    │   ├── optimization_problem.ipynb        # Notebook with the formulation and solving of the optimization problem    
+    │   ├── validation.ipynb                  # Notebook with the validation of the solution of the constellation
+    └── README.md
