@@ -12,7 +12,7 @@ Using the VLC-RM Python package, the minimum distance, the illuminance and the c
 
 ### Formulation and solving of the optimization problem
 
-The objective and constrain functions are formulated in terms of constellation symbols. An algorithm is proposed to get a solution for the CSK constellation.
+The objective function and constraints functions are formulated in terms of constellation symbols. An algorithm is proposed to get a solution for the CSK constellation.
 
 ### Analytical validation
 
